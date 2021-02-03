@@ -9,7 +9,7 @@ import Input from '../Input/Input';
 
 import './Chat.css';
 
-const ENDPOINT = 'https://front-end-chat-dyno.herokuapp.com/';
+const ENDPOINT = 'https://back-end-dyno.herokuapp.com/';
 
 let socket;
 
